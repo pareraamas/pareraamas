@@ -59,14 +59,14 @@ Welcome to my special repository! This serves as the central hub for my projects
 ### 📈 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DeveloperParera&show_icons=true&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" alt="DeveloperParera's GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DeveloperParera&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="DeveloperParera's GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=pareraamas&show_icons=true&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" alt="DeveloperParera's GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pareraamas&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="DeveloperParera's GitHub Streak" width="48%" />
 </div>
 
 ### 📫 Let's Connect
 
 <p align="left">
-  <a href="mailto:[EMAIL_ADDRESS]">
+  <a href="mailto:pareraamas@gmail.com">
     <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://www.linkedin.com/in/amas-parera">
