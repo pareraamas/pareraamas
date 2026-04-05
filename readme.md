@@ -66,13 +66,13 @@ Welcome to my special repository! This serves as the central hub for my projects
 ### 📫 Let's Connect
 
 <p align="left">
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:[EMAIL_ADDRESS]">
     <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://linkedin.com/in/yourusername">
+  <a href="https://www.linkedin.com/in/amas-parera">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://github.com/DeveloperParera">
+  <a href="https://github.com/pareraamas">
     <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
